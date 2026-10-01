@@ -4,7 +4,7 @@ import { HiMail, HiPhone } from 'react-icons/hi';
 import { FaLinkedin, FaGithub, FaFileAlt } from 'react-icons/fa';
 import { SiLeetcode, SiCodeforces } from 'react-icons/si';
 
-const RESUME_URL = 'https://drive.google.com/file/d/1vpMqViA9LgAaWg2zYhIUYc_2XjGBJXQy/view?usp=sharing';
+const RESUME_URL = 'https://drive.google.com/file/d/1F8E04LNBUgHXj3fUvosMNrt6Fa5AVmCF/view?usp=sharing';
 
 const Contact = ({ darkMode }) => {
   const ref = useRef(null);

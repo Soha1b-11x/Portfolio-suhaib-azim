@@ -23,7 +23,7 @@ const Projects = ({ darkMode }) => {
         'MongoDB and Mongoose used to store user, food, and order data',
         'Deployed on Render',
       ],
-      github: 'https://github.com/Soha1b-11x',
+      github: 'https://github.com/Soha1b-11x/Food-app',
     },
     {
       title: 'Blog Web Application',
@@ -40,7 +40,7 @@ const Projects = ({ darkMode }) => {
         'Admin panel to manage blog content and delete user-created posts',
         'Clean, responsive UI focused on simple navigation and readable content',
       ],
-      github: 'https://github.com/Soha1b-11x',
+      github: 'https://github.com/Soha1b-11x/BlogApp',
     },
   ];
 

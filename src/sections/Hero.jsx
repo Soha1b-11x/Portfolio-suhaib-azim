@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { FaDownload } from 'react-icons/fa';
 import { HiMail, HiArrowDown } from 'react-icons/hi';
 
-const RESUME_URL = 'https://drive.google.com/file/d/1vpMqViA9LgAaWg2zYhIUYc_2XjGBJXQy/view?usp=sharing';
+const RESUME_URL = 'https://drive.google.com/file/d/1F8E04LNBUgHXj3fUvosMNrt6Fa5AVmCF/view?usp=sharing';
 
 const Hero = ({ darkMode }) => {
   const [currentRole, setCurrentRole] = useState(0);
